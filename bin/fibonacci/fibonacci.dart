@@ -1,12 +1,12 @@
-funcaoFibonacci({required int tamanhoSequencia}) {
-  List<int> sequencia = [];
+funcFibonacci({required int sizeSequential}) {
+  List<int> sequential = [];
 
-  if (sequencia.isEmpty) {
-    sequencia.add(0);
-    sequencia.add(1);
+  if (sequential.isEmpty) {
+    sequential.add(0);
+    sequential.add(1);
   }
-  while (sequencia.length < tamanhoSequencia) {
-    sequencia.add(sequencia[sequencia.length - 1] + sequencia[sequencia.length - 2]);
+  while (sequential.length < sizeSequential) {
+    sequential.add(sequential[sequential.length - 1] + sequential[sequential.length - 2]);
   }
-  print(sequencia);
+  print(sequential);
 }
