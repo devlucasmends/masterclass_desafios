@@ -12,6 +12,6 @@ The objective of challenge 01 is to develop a code that returns the value of a B
 
     The objective of this challenge is to create a code that calculates the vigenere cipher.
 
-# Challenge 04
+# Challenge 04 (Finished)
 
     The objective of this challenge is to create a dart code capable of verifying whether a given cpf is valid.
