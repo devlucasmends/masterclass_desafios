@@ -1,9 +1,17 @@
-Neste projeto irão ficar o código de todos os desafios propostos durante a turma 8 da Masterclass Flutterando!!
+In this project will be the code of all the challenges proposed during class 8 of the Masterclass Flutterando!!
 
-# Desafio 01
+# Challenge 01(Finished)
 
-    O objetivo do desafio 01 é desenvolver um código que retorne o valor de um calculo IMC.
+The objective of challenge 01 is to develop a code that returns the value of a BMI calculation.
 
-# Desafio 02 
+# Challenge 02 (Finished)
 
-    O objetivo do desafio 02 é desenvolver um método que retorne o resultado de uma sequencia Fibonacci.
+    The objective of challenge 02 is to develop a method that returns the result of a Fibonacci sequence.
+   
+# Challenge 03
+
+    The objective of this challenge is to create a code that calculates the vigenere cipher.
+
+# Challenge 04
+
+    The objective of this challenge is to create a dart code capable of verifying whether a given cpf is valid.
