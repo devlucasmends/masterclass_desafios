@@ -1,6 +1,7 @@
 // import 'calculation_bmi/calculation_bmi.dart';
 // import 'fibonacci/fibonacci.dart';
-import 'validate_cpf/cpf.dart';
+// import 'validate_cpf/cpf.dart';
+import 'mario_game/mario_game.dart';
 
 void main(List<String> arguments) {
   //Function to calculate the BMI according to the indicated parameters.
@@ -10,5 +11,8 @@ void main(List<String> arguments) {
   // funcFibonacci(sizeSequential: 12);
 
   //Function to check if the cpf passed as a parameter is valid
-  Cpf(cpf: '002.078.270-52');
+  // Cpf(cpf: '002.078.270-52');
+
+  //Function to choose the character to play Mario, using OO concepts.
+  runMarioGame();
 }

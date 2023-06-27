@@ -15,3 +15,7 @@ The objective of challenge 01 is to develop a code that returns the value of a B
 # Challenge 04 (Finished)
 
     The objective of this challenge is to create a dart code capable of verifying whether a given cpf is valid.
+
+# Challenge 05 (Finished)
+
+    The objective of this challenge is to create a function to choose the Mario game character to play using object-oriented concepts.
